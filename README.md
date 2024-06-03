@@ -24,6 +24,7 @@ Official Code for ICML 2024 accepted paper [TENG: Time-Evolving Natural Gradient
 ```
 
 ### License
+```text
 This software is licensed under CC BY-NC-SA 4.0
 
 You are free to:
@@ -37,3 +38,4 @@ Under the following terms:
 - No additional restrictions: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 See [LICENSE](LICENSE) for details.
+```
