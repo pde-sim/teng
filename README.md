@@ -1,8 +1,17 @@
 # TENG
 Official Code for ICML paper TENG: Time-Evolving Natural Gradient for Solving PDEs with Deep Neural Net
 
-![Example Image](figures/burgers_evolve.jpg)
+## Illustration
+<p align="center">
+  <img src="figures/illustration.jpg" width="500">
+</p>
 
+## Results on Burger's Equation
+<p align="center">
+  <img src="figures/burgers_evolve.jpg" width="800">
+</p>
+
+### To cite our paper
 ```
 @misc{chen2024teng,
       title={TENG: Time-Evolving Natural Gradient for Solving PDEs with Deep Neural Net}, 
