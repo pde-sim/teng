@@ -1,6 +1,14 @@
 # TENG: Time-Evolving Natural Gradient for Solving PDEs With Deep Neural Nets Toward Machine Precision
 ICML 2024 accepted paper [TENG: Time-Evolving Natural Gradient for Solving PDEs With Deep Neural Nets Toward Machine Precision](https://arxiv.org/abs/2404.10771)
 
+This code has been tested to work on
+```bash
+python=3.10
+jax=0.4.23
+flax=0.7.5
+```
+
+
 ## Illustration
 <p align="center">
   <img src="figures/illustration.jpg" width="500">
