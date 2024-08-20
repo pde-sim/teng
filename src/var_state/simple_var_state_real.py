@@ -126,7 +126,6 @@ class SimpleVarStateReal(AbstractVarState):
 
     def __init__(self, net, system_shape, sampler, init_seed=1234, init_sample=None):
         """
-        net: an neural network for the quantum state. should support input of shape (..., nb_sites) and output a single (complex) number
         batch_size: the batch_size used for sampling
         sampler: a sampler that samples from (normalized) |psi|^2
         init_seed: seed to initialize the neural network
