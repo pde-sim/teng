@@ -88,9 +88,6 @@ class AbstractVarStatePure(ABC):
 
 
 class AbstractVarState(ABC):
-    """
-    abstract class for variational quantum state
-    """
 
     pure_funcs = None
 
