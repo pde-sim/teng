@@ -21,13 +21,13 @@ flax=0.7.5
 
 ### To cite our paper
 ```
-@misc{chen2024teng,
-      title={TENG: Time-Evolving Natural Gradient for Solving PDEs with Deep Neural Net}, 
-      author={Zhuo Chen and Jacob McCarran and Esteban Vizcaino and Marin Soljačić and Di Luo},
-      year={2024},
-      eprint={2404.10771},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@inproceedings{
+    chen2024teng,
+    title={{TENG}: Time-Evolving Natural Gradient for Solving {PDE}s With Deep Neural Nets Toward Machine Precision},
+    author={Zhuo Chen and Jacob McCarran and Esteban Vizcaino and Marin Soljacic and Di Luo},
+    booktitle={Forty-first International Conference on Machine Learning},
+    year={2024},
+    url={https://openreview.net/forum?id=v1I4zRAjMb}
 }
 ```
 
